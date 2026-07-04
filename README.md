@@ -190,7 +190,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**Built by [Your Name](https://linkedin.com/in/yourprofile)**  
+**Built by [Rehan](https://www.linkedin.com/in/rehan-rizwan-1b4266400/)**  
 🚧 Currently in active development · [triggo.dev](https://triggo.dev)
 
 *If this resonates with you, drop a ⭐ — it helps more than you think.*
